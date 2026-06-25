@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Naveen 👋
 
-<!--
-**Naveen2267/Naveen2267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | AI & Android Developer
 
-Here are some ideas to get you started:
+I'm passionate about building AI-powered applications and mobile solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- Python
+- Java
+- Kotlin
+- Flutter
+- TensorFlow
+- PyTorch
+- Firebase
+- SQL
+
+## 🌱 Currently Learning
+- Android Development
+- Generative AI
+- System Design
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/your-profile
+- Email: your-email@example.com
+
+- ![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveen2267&show_icons=true&theme=tokyonight)
