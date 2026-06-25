@@ -1,6 +1,6 @@
 # Hi there, I'm Naveen 👋
 
-Software Engineer | AI & Android Developer
+Aspiring Software Engineer | AI & Android Developer
 
 I'm passionate about building AI-powered applications and mobile solutions.
 
