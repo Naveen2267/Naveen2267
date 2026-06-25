@@ -17,7 +17,7 @@ I'm passionate about building AI-powered applications and mobile solutions.
 ## 🌱 Currently Learning
 - Android Development
 - Generative AI
-- System Design
+- AI\ML
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/naveen-hanagandi-309107279/
