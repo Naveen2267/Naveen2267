@@ -22,5 +22,3 @@ I'm passionate about building AI-powered applications and mobile solutions.
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/naveen-hanagandi-309107279/
 - Email: naveenhanagand125@gmail.com
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen2267&layout=compact&theme=tokyonight)
