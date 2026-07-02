@@ -8,7 +8,7 @@ I'm passionate about building AI-powered applications and mobile solutions.
 - Python
 - Java
 - Kotlin
-- Flutter
+- Jetpack Compose
 - TensorFlow
 - PyTorch
 - Firebase
